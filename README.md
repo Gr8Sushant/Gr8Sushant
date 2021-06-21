@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sushant Pokharel</h1>
-<h3 align="center">I am a Machine learning Student, Developer and Graphic Designer</h3>
+<h3 align="center">I am a Data Science Student, Developer and Graphic Designer</h3>
 
 
 <h3 align="center">Languages and Tools:</h3>

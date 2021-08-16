@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sushant Pokharel</h1>
-<h3 align="center">Data Science Student | Full Stack Developer</h3>
+<h3 align="center">Data Science Student | Developer</h3>
 
 
 <h3 align="center">Languages and Tools:</h3>

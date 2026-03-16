@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sushant Pokharel</h1>
-<h3 align="center">Software Engineer | AI | Innovation</h3>
+<h3 align="center"> MLOps | Data Science | Research</h3>
 
+<img alt="welcome" src="welcome.gif" width="100%">
 
 ![](https://komarev.com/ghpvc/?username=Gr8Sushant&label=Visits)
 
